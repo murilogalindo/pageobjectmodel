@@ -13,7 +13,7 @@ Instalar o Java SDK Alguma IDE para JAVA Eclipse ou Intellij Baixar as libs do S
 
 Iniciando o Java Passo 1 - Instalar o Java em seu computador Baize e Insale o Java Software Development Kit (JDK)
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 Projeto iciado para estudos
 
 Dificuldade: fácil
@@ -23,7 +23,7 @@ Linguagem Java Framework de testes automatizados: Selenium WebDriver Framework d
 JUnit * Padrão de escrita de código de testes: PageObjects *
 Cucumber e linguagem Guerkin
 
-# Resumo:
+## Resumo:
 Encontrar path relativo de driver
 
 Básico de WebDriver
@@ -34,18 +34,18 @@ Criar um método de teste
 
 Validar resultados de teste
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 
-# Classe Util:
+## Classe Util:
 incluir métodose e variǘaeis que serão usados em todo o projeto, como url, geradaor de CPF
 
-# Classe Base:
+## Classe Base:
 Criar pasta e incluir chromedriver (driver do navegador chrome) Contém o WebDriver e o controle do browser
 
-# Classe Page:
+## Classe Page:
 Fazer antes de criar os testes para mapear os elementos da tela que será efetuado ações Recomendo utilizar o navegador Mozilla Firefox e usar a extensão e Firebug para ajudar a mapear Criar classe para cada página existente no sistema Mapeie cada elemento: ajuda na hora da manutenção e fica mais legível
 
-# Classe RunTestSuite
+## Classe RunTestSuite
 Classe que representa uma suíte de testes que irão ser executados
 
 Abre a sua IDE e importe o porjeto mporte as libs do Selenium Configure o caminho da pasta onde está seu arquivo webdriver através do código: System.setProperty("webdriver.chrome.driver", "/home/user/Documentos/webdrivers/chromedriver");
