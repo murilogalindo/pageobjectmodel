@@ -39,6 +39,12 @@ Validar resultados de teste
 ## Classe Util:
 incluir métodose e variǘaeis que serão usados em todo o projeto, como url, geradaor de CPF
 
+## Classe Asserts
+Validação de elementos na tela
+
+## Classe Actions
+Contém acões na tela, como: cliquesm em links, fechamento de modal, interação com alerta...
+
 ## Classe Base:
 Criar pasta e incluir chromedriver (driver do navegador chrome) Contém o WebDriver e o controle do browser
 
