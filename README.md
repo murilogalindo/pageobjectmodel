@@ -58,4 +58,3 @@ Abre a sua IDE e importe o porjeto mporte as libs do Selenium Configure o caminh
 
 No projeto: Clique com o botão direito sobre a classe RegisterInmroboTest.java
 
-para esse projeto faça isso na classe Test1
